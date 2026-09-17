@@ -1,4 +1,4 @@
-# OpenStudy AI 🎓
+# OpenStudy AI 🌏🌏
 
 OpenStudy AI is an open-source AI study assistant designed to help
 students learn, practice, and revise from their textbooks, notes,
