@@ -38,7 +38,7 @@ Ideas, bug reports, improvements, and contributions are welcome.
 
 ## License
 
-MIT License# 
+MIT License#
 
 openstudy-ai
 An open-source AI study assistant that helps students learn from textbooks, notes, and study materials.
